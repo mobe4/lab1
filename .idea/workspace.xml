@@ -264,8 +264,6 @@
       <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab9_part1/part3/.idea/part3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab9_part2/.idea/lab9_part2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../a/a.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edu.miu.cs.cs489appsd.lab1a.productmgmtapp.model.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../exeice2/exeice2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../homewok1/homewok1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jj/jj.iml" afterDir="false" />
@@ -310,7 +308,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
