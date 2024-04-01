@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02289722-204b-450e-b6d8-760cc75d101a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Downloads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/.idea/EA Rene.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartA/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartB 2/Lab1PartD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartB/Lab1PartD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartC/Lab1PartD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartD/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab1/lab1/Lab1PartE/Lab1PartD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Assignment Sura/lab8 sol/.idea/lab8 sol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EA Rene/Professor Solution/.idea/Professor Solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/FPP Resources/LectureCode/LectureCode/lesson1/demo3/hello/.idea/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/InClassExercises/InClassExercises/src/lesson6/exercise_1/.idea/exercise_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/InClassExercises/InClassExercises/src/lesson6/exercise_2/.idea/exercise_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lecture01-examples/.idea/lecture01-examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lecture05_examples-1/lecture05_examples/.idea/lecture05_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lecture05_examples-1/lecture05_examples/lecture05_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lecture06_examples/.idea/lecture06_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lecture06_examples/lecture06_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lesson3_examples/.idea/lesson3_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/lesson3_examples/lesson3_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/3_WAP/Lecture Examples/w1d4_examples/lecture4_examples/.idea/lecture4_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/Wap/Code/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022 (1)/Wap/WAP-Practice/WAP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/.idea/Lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/.metadata/.plugins/org.eclipse.wildwebdeveloper.embedder.node/node-v14.15.4-darwin-x64/lib/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/FinalExamCodes/FinalExamCodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/InClassExercises/InClassExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/InClassExercises/bin/InClassExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/InClassExercises/src/InClassExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/InClassMine/InClassMine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/Lab13/Lab13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/Lab2/Lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabEight/LabEight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabEleven/LabEleven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabNine/LabNine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabSeven/LabSeven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabTen/LabTen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LabTwelve/LabTwelve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FPP Resources/OneDrive_1_5-22-2022/Lab/LectureCode/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab3/assignment3p3/assignment3p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab3/assignment3p3/out/production/assignment3p3/assignment3p3/assignment3p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab5/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab5/out/production/lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab8/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab8/out/production/lab8/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab9/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/FPP_Lab Solutions/lab9/out/production/lab9/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/Labs/Lab08/Lab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/Labs/Solutions/bin/lab10/.idea/lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/Lecture_code/lesson3/dates/dates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP - Tirha/Lecture_code/lesson3/dates/out/production/dates/lesson3/dates/dates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP Labs/FppAssignmentsLab10/bin/question1/.idea/question1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP Labs/Lab10_2/Lab10_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP Labs/Lesson_2/Lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP Labs/Lesson_2/out/production/Lesson_2/Lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/InClassExercises/.idea/InClassExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/InClassExercises/bin/lesson3/.idea/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/FppAssignmentsLab08/.idea/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/FppAssignmentsLab08/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/Solutions/prog3-1_code/out/production/prog3-1_code/prog3_1_startup/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/Solutions/prog3-1_code/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3-2_supplement/out/production/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3-5_code 2/out/production/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3-5_code/prog3-5_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3_3_startup/out/production/prog3_3_startup/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 3/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/Lab 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/out/production/Lab 8/lesson8/prog8-4_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8-5_source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8_1_startup/prog8-1_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8_2_startup/prog8-2_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/prog8-1_startup/prog8-1_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/prog8-2_code/prog8-2_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/prog8-3_code/prog8-3_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/prog8-4_code/prog8-4_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 8/prog8-5_source/prog8-5_source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 9/Lab 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab 9/out/production/Lab 9/Lab 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Lab_4/Lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/lab08/.idea/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/lab6/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/lab6/out/production/lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/Solutions/prog3-1_code/out/production/prog3-1_code/prog3_1_startup/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/Solutions/prog3-1_code/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-2_supplement/out/production/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code 2/out/production/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code/prog3-5_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3_3_startup/out/production/prog3_3_startup/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/Labs/out/production/Labs/prog2_4/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/LectureCode 2/.idea/LectureCode 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/LectureCode 2/LectureCode/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/LectureCode 2/figures/figures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP MY/LectureSlides/.idea/LectureSlides.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/.idea/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lab03/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lab_7/Lab_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lab_8/Lab_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lesson_8Practice/Lesson_8Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lesson_8_Lists/Lesson_8_Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Lesson_9_Stacks/Lesson_9_Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles 2/FPP/Labs/Solutions/FPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab3/assignment3p3/assignment3p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab3/assignment3p3/out/production/assignment3p3/assignment3p3/assignment3p3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab5/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab5/out/production/lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab8/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab8/out/production/lab8/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab9/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/FPP_Lab Solutions/lab9/out/production/lab9/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/Labs/Lab08/Lab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/Labs/Solutions/bin/lab10/.idea/lab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/Lecture_code/lesson3/dates/dates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP - Tirha/Lecture_code/lesson3/dates/out/production/dates/lesson3/dates/dates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP Labs/FppAssignmentsLab10/bin/question1/.idea/question1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP Labs/Lab10_2/Lab10_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP Labs/Lesson_2/Lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP Labs/Lesson_2/out/production/Lesson_2/Lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/InClassExercises/.idea/InClassExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/InClassExercises/bin/lesson3/.idea/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/FppAssignmentsLab08/.idea/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/FppAssignmentsLab08/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/Solutions/prog3-1_code/out/production/prog3-1_code/prog3_1_startup/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/Solutions/prog3-1_code/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3-2_supplement/out/production/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3-5_code 2/out/production/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3-5_code/prog3-5_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3_3_startup/out/production/prog3_3_startup/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 3/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/Lab 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/out/production/Lab 8/lesson8/prog8-4_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8-5_source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8_1_startup/prog8-1_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/out/production/Lab 8/prog8_2_startup/prog8-2_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/prog8-1_startup/prog8-1_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/prog8-2_code/prog8-2_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/prog8-3_code/prog8-3_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/prog8-4_code/prog8-4_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 8/prog8-5_source/prog8-5_source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 9/Lab 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab 9/out/production/Lab 9/Lab 9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Lab_4/Lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/lab08/.idea/FppAssignmentsLab08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/lab6/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/lab6/out/production/lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/lab7/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/Solutions/prog3-1_code/out/production/prog3-1_code/prog3_1_startup/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/Solutions/prog3-1_code/prog3-1_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-2_supplement/out/production/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-2_supplement/prog3-2_supplement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code 2/out/production/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code 2/prog3-5_code 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3-5_code/prog3-5_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3_3_startup/out/production/prog3_3_startup/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Lab 3/prog3_3_startup/prog3_3_startup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/Labs/out/production/Labs/prog2_4/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/LectureCode 2/.idea/LectureCode 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/LectureCode 2/LectureCode/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/LectureCode 2/figures/figures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP MY/LectureSlides/.idea/LectureSlides.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/.idea/Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lab03/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lab_7/Lab_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lab_8/Lab_8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lesson_8Practice/Lesson_8Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lesson_8_Lists/Lesson_8_Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Lesson_9_Stacks/Lesson_9_Stacks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fundermental Prog Principles/FPP/Labs/Solutions/FPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-1 2/HomeWork-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-1/HomeWork-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-1/HomeWork1/HomeWork1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-1/src/homeworkmpp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-1/src/out/production/homeworkmpp1/homeworkmpp1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InClassExercises-4/src/lesson3/exercise_1/.idea/exercise_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InClassExercises-7/InClassExercises-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab%2B13%2Bsolution/.idea/Lab%2B13%2Bsolution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1PartB 2/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1PartB/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1PartC/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1PartD/Lab1PartA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/src/out/production/LectureCode/LectureCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LectureCode/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code-2/Lesson1BasicSpring/Lesson1BasicSpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code-2/Lesson1SpringDiClassPathScanning/Lesson1SpringDiClassPathScanning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code-2/Lesson1SpringDiJavaConfig/Lesson1SpringDiJavaConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code-2/Lesson1SpringDiMostSimpleConfig/Lesson1SpringDiJavaConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code-2/Lesson1SpringDiXML/Lesson1SpringDiXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code/Lesson1BasicSpring/Lesson1BasicSpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code/Lesson1SpringDiClassPathScanning/Lesson1SpringDiClassPathScanning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code/Lesson1SpringDiJavaConfig/Lesson1SpringDiJavaConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code/Lesson1SpringDiMostSimpleConfig/Lesson1SpringDiJavaConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson+1+demo+code/Lesson1SpringDiXML/Lesson1SpringDiXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 3/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 3/src/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 3/src/out/production/MPP/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 4/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 4/src/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 4/src/out/production/MPP/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/Mppexerice4/Mppexerice4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/assignment4_Lab5_1/assignment4_Lab5_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/assignment4_Lab5_1/out/production/assignment4_Lab5_1/assignment4_Lab5_1/assignment4_Lab5_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/exexrice/exexrice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/id/id.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/jj/jj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/moashexercise/moashexercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mpp/mpp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppexereice3/mppexereice3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppexericejava8/mppexericejava8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mpphomeworklbrary/mpphomeworklbrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppregularexpression/mppregularexpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstandardeaxmmarch/mppstandardeaxmmarch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstandardexam/mppstandardexam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstandardexam2/mppstandardexam2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstandardexamstream/mppstandardexamstream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstandardexmmay/mppstandardexmmay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstreamandlamda3/mppstreamandlamda3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstreamandlamda4/mppstreamandlamda4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstreamandlamdapart2/mppstreamandlamdapart2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppstremandlamda/mppstremandlamda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mpptherad2/mpptherad2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mpptherad3/mpptherad3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppthread1/mppthread1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/mppweek3java8superclass/mppweek3java8superclass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/out/production/MPP/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/streamandlamda/streamandlamda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 5/src/treding/treding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 7/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 7/src/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPP 7/src/out/production/MPP/MPP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/.idea/SoftwareArchitecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/ConfigServerDemo/.idea/ConfigServerDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab10_part1/.idea/lab10_part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab10_part2/.idea/lab10_part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab10_part3/.idea/lab10_part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab11_part1/.idea/lab11_part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab11_part3/.idea/lab11_part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab7/.idea/lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab8/.idea/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab8/part1/.idea/part1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab8/part2/.idea/part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab9_part1/.idea/lab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab9_part1/part3/.idea/part3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoftwareArchitecture-master/lab9_part2/.idea/lab9_part2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../a/a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu.miu.cs.cs489appsd.lab1a.productmgmtapp.model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exeice2/exeice2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homewok1/homewok1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jj/jj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junit/junit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 10/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 11/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 12/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 13/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 14/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 15/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 2/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 3/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 4/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 5/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 6/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 7/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 8/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1 9/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-1/lab-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/lesson9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mppex1/mppex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mppexericeone/mppexericeone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mppexericse2/mppexericse2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mpphomework1-2/mpphomework1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mpphomework1/mpphomework1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soln/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-assistant-@valueToYml/.idea/spring-assistant-@valueToYml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson6problem2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson6problem2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson6problem2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson6problem2/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eVsteJPBKLKWNJGbXDtD4iUWmk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02289722-204b-450e-b6d8-760cc75d101a" name="Changes" comment="" />
+      <created>1712001296392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712001296392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
